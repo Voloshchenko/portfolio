@@ -1,0 +1,2 @@
+body{height:100vh;margin:0}.block{display:grid;grid-template-columns:calc(25vh + 220px) auto}.circle{border-radius:50%;position:fixed;border:30px solid #d31328;top:-15px;left:-80vh;width:calc(100vh - 30px);height:calc(100vh - 30px)}.nav-item{display:none}.active{color:#000;display:inline}
+/*# sourceMappingURL=main.feecc20f.chunk.css.map */

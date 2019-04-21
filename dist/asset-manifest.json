@@ -1,0 +1,22 @@
+{
+  "main.css": "/static/css/main.a7bae513.chunk.css",
+  "main.js": "/static/js/main.c7922673.chunk.js",
+  "main.js.map": "/static/js/main.c7922673.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.44d4deeb.chunk.js": "/static/js/2.44d4deeb.chunk.js",
+  "static/js/2.44d4deeb.chunk.js.map": "/static/js/2.44d4deeb.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.061e2aa219fd8e65aa34c98eb9ac8400.js": "/precache-manifest.061e2aa219fd8e65aa34c98eb9ac8400.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.a7bae513.chunk.css.map": "/static/css/main.a7bae513.chunk.css.map",
+  "static/media/Colored-Penguin.svg": "/static/media/Colored-Penguin.10775bc1.svg",
+  "static/media/WWMenu.png": "/static/media/WWMenu.41c8fd6a.png",
+  "static/media/contact-black.svg": "/static/media/contact-black.c4dc4982.svg",
+  "static/media/home.svg": "/static/media/home.2217e1f0.svg",
+  "static/media/lightbulb-black.svg": "/static/media/lightbulb-black.44973c86.svg",
+  "static/media/line.svg": "/static/media/line.cebecdfa.svg",
+  "static/media/penguin.svg": "/static/media/penguin.ee1a688e.svg",
+  "static/media/timeline-black.svg": "/static/media/timeline-black.52b12c3c.svg",
+  "static/media/weWanderLoading.png": "/static/media/weWanderLoading.db51576e.png"
+}
