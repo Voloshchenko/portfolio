@@ -175,16 +175,21 @@ body {
 .portfolio-block-left{
   display: grid; 
   grid-template-columns: 30% 70%;
-  margin-bottom: 50px;
+  margin: 50px 0;
 }
 
 .portfolio-block-right{
   display: grid; 
   grid-template-columns: 70% 30%;
+
 }
 
 .double-img {
   width: 50%;
+}
+
+.one-img {
+  width: 100%;
 }
 
 .text-block {
@@ -194,6 +199,7 @@ body {
 
 .portfolio p {
   padding-bottom: 20px;
+  font-weight: 400;
 }
 
 @media (max-width: 700px) and (orientation: portrait) {
@@ -236,6 +242,10 @@ body {
     grid-template-columns: 100%; 
   }
 
+  .profile {
+    margin: 20px;
+  }
+
     /* Portfolio */
   .portfolio {
     max-width: 1000px;
@@ -248,13 +258,17 @@ body {
     margin: 80px 0;
   }
 
-  .portfolio-block-right .img-block{
+  .portfolio-block-right .img-block, .portfolio-block-left .img-block{
     grid-row: 1;
     text-align: center;
   }
 
   .double-img {
     width: 40%;
+  }
+
+  .one-img {
+    width: 80%;
   }
 
 }
