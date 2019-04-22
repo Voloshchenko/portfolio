@@ -26,7 +26,7 @@ function PortfolioPage() {
                         location or city center, saved locations that they liked and show them conviniently on the 
                         map as well as track there current location.</p>
                     <a href="" className="btn-reverse">Play Store</a>  
-                    <a href="" className="btn-reverse">GitHub</a>   
+                    <a href="https://github.com/Voloshchenko/WeWander" className="btn-reverse">GitHub</a>   
                 </div>                
             </div>
             <div className="portfolio-block-right">
